@@ -1,5 +1,5 @@
 # TriviaQA-Fine-tuning-with-BERT
-Introduction
+
 This repository contains code for fine-tuning the BERT model on the TriviaQA dataset for question answering (QA) tasks. The TriviaQA dataset consists of trivia questions along with corresponding answers and contexts. The goal is to train a QA model that can accurately answer questions based on the provided context.
 
 What's Included
